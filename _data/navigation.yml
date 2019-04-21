@@ -46,10 +46,6 @@
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
-
-- title: ISKO
-  url: http://www.isko.org
-  side: left
   
 - title: "Search"
   url: "/search/"
